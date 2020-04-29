@@ -1,0 +1,44 @@
+{
+   "folders": [
+      {
+         "path": ""
+      },
+      {
+         "path": "dev_mode"
+      },
+      {
+         "path": "examples"
+      },
+      {
+         "path": "packages"
+      },
+      {
+         "path": "packages/services/examples/node"
+      },
+      {
+         "path": "packages/services/examples/browser"
+      },
+      {
+         "path": "packages/services/examples/typescript-browser-with-output"
+      },
+      {
+         "path": "buildutils"
+      },
+      {
+         "path": "buildutils/template"
+      },
+      {
+         "path": "buildutils/buildutils/test-template"
+      },
+      {
+         "path": "tests"
+      },
+      {
+         "path": "testutils"
+      },
+      {
+         "path": "jupyterlab/tests/mock_packages/extension"
+      }
+   ],
+   "settings": {}
+}
